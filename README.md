@@ -11,4 +11,4 @@ Meu nome é Paulo Eduardo
 
  00001134521868SP@al.educacao.sp.gov.br
 
- !{(https://media1.tenor.com/m/N9p6m411EBkAAAAd/lol-sus.gif)
+ ![](https://media1.tenor.com/m/N9p6m411EBkAAAAd/lol-sus.gif)
